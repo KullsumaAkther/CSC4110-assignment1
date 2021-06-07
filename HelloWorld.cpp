@@ -8,6 +8,8 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
+    // Author: Kullsuma Akther<fw2719@wayne.edu>
+	// Date: Sunday June 6 8:14pm
     // prints hello world 
     cout<<"Hello World!"; 
       
